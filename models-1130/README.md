@@ -1,4 +1,4 @@
-# TensorFlow Models
+# TensorFlow Models version 1.13.0
 
 This repository contains a number of different models implemented in [TensorFlow](https://www.tensorflow.org):
 
