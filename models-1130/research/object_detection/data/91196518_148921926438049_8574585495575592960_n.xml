@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>91196518_148921926438049_8574585495575592960_n.jpg</filename>
+	<path>/home/kynn/Documents/ThirdYearUETVNU/5_Ro_bot/toy_pics/images/train/91196518_148921926438049_8574585495575592960_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3640</width>
+		<height>2730</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rhino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>524</ymin>
+			<xmax>3003</xmax>
+			<ymax>2057</ymax>
+		</bndbox>
+	</object>
+</annotation>

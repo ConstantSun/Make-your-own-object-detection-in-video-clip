@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>91188140_243044936871581_1905664168757821440_n.jpg</filename>
+	<path>/home/kynn/Documents/ThirdYearUETVNU/5_Ro_bot/toy_pics/images/test/91188140_243044936871581_1905664168757821440_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3640</width>
+		<height>2730</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rhino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1575</xmin>
+			<ymin>310</ymin>
+			<xmax>2518</xmax>
+			<ymax>2176</ymax>
+		</bndbox>
+	</object>
+</annotation>
